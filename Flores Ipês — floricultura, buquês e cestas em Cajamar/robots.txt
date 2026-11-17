@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-# Sitemap: defina o dominio e gere de novo com -Dominio
